@@ -1,0 +1,68 @@
+@font-face {
+    font-family:"source-sans-pro";
+    src:url("./../assets/Font/SourceSansPro-Regular.woff") format("woff");
+    font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+    }
+    
+    @font-face {
+    font-family:"source-sans-pro";
+    src:url("./../assets/Font/SourceSansPro-Bold.woff") format("woff");
+    font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+    }
+    
+    @font-face {
+    font-family:"source-sans-pro";
+    src:url("./../assets/Font/SourceSansPro-Semibold.woff") format("woff");
+    font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+    }
+    
+    @font-face {
+    font-family:"source-sans-pro";
+    src:url("./../assets/Font/SourceSansPro-Regular.woff") format("woff");
+    font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+    }
+    
+    @font-face {
+    font-family:"source-sans-pro";
+    src:url("./../assets/Font/SourceSansPro-Semibold.woff") format("woff");
+    font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+    }
+    
+    @font-face {
+    font-family:"source-sans-pro";
+    src:url("./../assets/Font/SourceSansPro-Light.woff") format("woff");
+    font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+    }
+    .tk-source-sans-pro { font-family: "source-sans-pro",sans-serif; }
+    
+    @font-face {
+        font-family:"arimo";
+        src:url("./../assets/Font/Arimo-Regular.woff") format("woff");
+        font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+    }
+    @font-face {
+        font-family:"arimo";
+        src:url("./../assets/Font/Arimo-Regular.woff") format("woff");
+        font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+    }
+    @font-face {
+        font-family:"arimo";
+        src:url("./../assets/Font/Arimo-Medium.woff") format("woff");
+        font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+    }
+    @font-face {
+        font-family:"arimo";
+        src:url("./../assets/Font/Arimo-Medium.woff") format("woff");
+        font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+    }
+    @font-face {
+        font-family:"arimo";
+        src:url("./../assets/Font/Arimo-SemiBold.woff") format("woff");
+        font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+    }
+    @font-face {
+        font-family:"arimo";
+        src:url("./../assets/Font/Arimo-SemiBold.woff") format("woff");
+        font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+    }
+    .tk-arimo { font-family: "arimo",sans-serif; }
